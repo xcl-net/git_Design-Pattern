@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\第九章\第九章\bin\Debug\第九章.exe.config
+C:\Users\Administrator\Desktop\第九章\第九章\bin\Debug\第九章.exe
+C:\Users\Administrator\Desktop\第九章\第九章\bin\Debug\第九章.pdb
+C:\Users\Administrator\Desktop\第九章\第九章\obj\Debug\9.2简历代码初步实现.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\第九章\第九章\obj\Debug\第九章.exe
+C:\Users\Administrator\Desktop\第九章\第九章\obj\Debug\第九章.pdb

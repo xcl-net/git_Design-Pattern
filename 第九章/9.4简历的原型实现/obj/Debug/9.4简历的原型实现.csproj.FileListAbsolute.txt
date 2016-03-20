@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\第九章\9.4简历的原型实现\bin\Debug\9.4简历的原型实现.exe.config
+C:\Users\Administrator\Desktop\第九章\9.4简历的原型实现\bin\Debug\9.4简历的原型实现.exe
+C:\Users\Administrator\Desktop\第九章\9.4简历的原型实现\bin\Debug\9.4简历的原型实现.pdb
+C:\Users\Administrator\Desktop\第九章\9.4简历的原型实现\obj\Debug\9.4简历的原型实现.exe
+C:\Users\Administrator\Desktop\第九章\9.4简历的原型实现\obj\Debug\9.4简历的原型实现.pdb
+C:\Users\Administrator\Desktop\第九章\9.4简历的原型实现\obj\Debug\9.4简历的原型实现.csprojResolveAssemblyReference.cache

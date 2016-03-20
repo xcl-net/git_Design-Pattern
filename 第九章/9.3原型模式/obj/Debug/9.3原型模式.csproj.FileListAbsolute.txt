@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\第九章\9.3原型模式\bin\Debug\9.3原型模式.exe.config
+C:\Users\Administrator\Desktop\第九章\9.3原型模式\bin\Debug\9.3原型模式.exe
+C:\Users\Administrator\Desktop\第九章\9.3原型模式\bin\Debug\9.3原型模式.pdb
+C:\Users\Administrator\Desktop\第九章\9.3原型模式\obj\Debug\9.3原型模式.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\第九章\9.3原型模式\obj\Debug\9.3原型模式.exe
+C:\Users\Administrator\Desktop\第九章\9.3原型模式\obj\Debug\9.3原型模式.pdb

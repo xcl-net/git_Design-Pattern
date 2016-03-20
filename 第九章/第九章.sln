@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9.2简历代码初步实现", "第九章\9.2简历代码初步实现.csproj", "{079ED25E-219B-4DC7-A782-D5C4D570EFA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9.3原型模式", "9.3原型模式\9.3原型模式.csproj", "{DE6625E2-E872-4E5F-9E56-CC2A2A481D2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9.4简历的原型实现", "9.4简历的原型实现\9.4简历的原型实现.csproj", "{4E714C9E-932A-44ED-A56D-CC3E4BDEFB82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9.5浅复制与深复制", "9.5浅复制与深复制\9.5浅复制与深复制.csproj", "{646E89A5-1FB3-40D7-8A9A-07D0726C2E15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9.6简历的深复制实现", "9.6简历的深复制实现\9.6简历的深复制实现.csproj", "{CAACB77C-13EC-45D3-A30B-A210433913A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{079ED25E-219B-4DC7-A782-D5C4D570EFA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{079ED25E-219B-4DC7-A782-D5C4D570EFA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{079ED25E-219B-4DC7-A782-D5C4D570EFA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{079ED25E-219B-4DC7-A782-D5C4D570EFA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE6625E2-E872-4E5F-9E56-CC2A2A481D2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE6625E2-E872-4E5F-9E56-CC2A2A481D2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE6625E2-E872-4E5F-9E56-CC2A2A481D2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE6625E2-E872-4E5F-9E56-CC2A2A481D2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E714C9E-932A-44ED-A56D-CC3E4BDEFB82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E714C9E-932A-44ED-A56D-CC3E4BDEFB82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E714C9E-932A-44ED-A56D-CC3E4BDEFB82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E714C9E-932A-44ED-A56D-CC3E4BDEFB82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{646E89A5-1FB3-40D7-8A9A-07D0726C2E15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{646E89A5-1FB3-40D7-8A9A-07D0726C2E15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{646E89A5-1FB3-40D7-8A9A-07D0726C2E15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{646E89A5-1FB3-40D7-8A9A-07D0726C2E15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAACB77C-13EC-45D3-A30B-A210433913A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAACB77C-13EC-45D3-A30B-A210433913A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAACB77C-13EC-45D3-A30B-A210433913A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAACB77C-13EC-45D3-A30B-A210433913A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
